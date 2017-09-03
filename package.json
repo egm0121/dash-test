@@ -1,0 +1,24 @@
+{
+  "name": "dash-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scan": "dash-button scan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egm0121/dash-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egm0121/dash-test/issues"
+  },
+  "homepage": "https://github.com/egm0121/dash-test#readme",
+  "dependencies": {
+    "dash-button": "^3.1.0"
+  }
+}
